@@ -17,6 +17,11 @@ cd sever
 npm install
 ```
 ```bash
+cd ..
 cd client
 npm install
 ```
+
+## user info
+
+Find admin and users info in sever/.env
