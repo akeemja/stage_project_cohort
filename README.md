@@ -46,6 +46,6 @@ The admin can add new counselors and upload new cohorts to the site
 # Back End
 
 Handles user login/logout and login status.<br>
-Stores new users and cohorts in the database.
+Stores new users and cohorts in the database.<br>
 Retrieves cohort details from database.
 
