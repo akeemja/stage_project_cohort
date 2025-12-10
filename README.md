@@ -32,8 +32,9 @@ Find admin and counselor info in sever/.env
 
 Login as counselor.
 Select program, language, campus, days and submit.
-view results
+view results.
 
 ### As admin
 
 Login as admin.
+
