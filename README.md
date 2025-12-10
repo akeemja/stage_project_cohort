@@ -30,9 +30,11 @@ Find admin and counselor info in sever/.env
 
 ## Home page
 
+<img width="1896" height="851" alt="Screenshot 2025-12-10 113410" src="https://github.com/user-attachments/assets/415193e8-5273-42d4-83b0-e19a946c17d2" />
+
 The admin and counselors can search for cohorts based on the students needs.
 
-## add user and upload pages
+## Add user and Upload pages
 
 the admin can add new counselors and upload new cohorts to the site
 
