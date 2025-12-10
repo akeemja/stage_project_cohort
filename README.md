@@ -10,10 +10,7 @@ details of the program cohort which best suits his needs.
 Install all dependencies listed in package.json files
 
 ```bash
-npm install
-```
-```bash
-cd sever
+cd server
 npm install
 ```
 ```bash
@@ -21,8 +18,13 @@ cd ..
 cd client
 npm install
 ```
+```bash
+cd ..
+npm install
+npm start
+```
 
-## user info
+## User Info
 
 Find admin and counselor info in sever/.env
 
@@ -39,7 +41,11 @@ The admin and counselors can search for cohorts based on the students needs.
 <img width="1896" height="852" alt="Screenshot 2025-12-10 113448" src="https://github.com/user-attachments/assets/532e7dd0-b58c-44c1-99ad-47ad10ba76b2" />
 <img width="1897" height="850" alt="Screenshot 2025-12-10 113432" src="https://github.com/user-attachments/assets/68e32537-7143-4ec5-a55d-bdb8639edce3" />
 
-the admin can add new counselors and upload new cohorts to the site
+The admin can add new counselors and upload new cohorts to the site
 
 # Back End
+
+Handles user login/logout and login status.<br>
+Stores new users and cohorts in the database.
+Retrieves cohort details from database.
 
