@@ -12,3 +12,11 @@ Install all dependencies listed in package.json files
 ```bash
 npm install
 ```
+```bash
+cd sever
+npm install
+```
+```bash
+cd client
+npm install
+```
