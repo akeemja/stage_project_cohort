@@ -24,4 +24,16 @@ npm install
 
 ## user info
 
-Find admin and users info in sever/.env
+Find admin and counselor info in sever/.env
+
+## usage
+
+### As counselor
+
+Login as counselor.
+Select program, language, campus, days and submit.
+view results
+
+### As admin
+
+Login as admin.
