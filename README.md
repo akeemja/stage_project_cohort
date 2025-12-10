@@ -26,15 +26,13 @@ npm install
 
 Find admin and counselor info in sever/.env
 
-## usage
+# Front End
 
-### As counselor
+## Home page
 
-Login as counselor.
-Select program, language, campus, days and submit.
-view results.
+The admin and counselors can search for cohorts based on the students needs.
 
-### As admin
+## add user and upload pages
 
-Login as admin.
+the admin can add new counselors and upload new cohorts to the site
 
